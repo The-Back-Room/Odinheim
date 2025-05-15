@@ -2,7 +2,7 @@
 Odinheim Modpack
 
 ## Details
-A collection of mods to improve gameplay
+A collection of mods to improve gameplay. Contains both client-side and server-side mods.
 
 ### Changelog
 
@@ -38,3 +38,20 @@ A collection of mods to improve gameplay
 	- Updated `Odinheim Core`
 	- Updated `Odinheim Extras`
 	- Reimplemented `Odinheim QoL`
+
+**3.0.0**
+
+	- Consolidated the modpacks into a single modpack
+    	- Removed `Odinheim Core`
+    	- Removed `Odinheim Extras`
+    	- Removed `Odinheim QoL`
+    	- Added `Official_BepInEx_ConfigurationManager`
+    	- Added `BetterNetworking_Valheim`
+    	- Added `EpicLoot`
+    	- Added `BetterWards`
+    	- Added `OdinsUndercrot`
+    	- Added `PotionsPlus`
+    	- Added `OdinHorse`
+    	- Added `HoneyPlus`
+    	- Added `WishboneSlot`
+    	- Added `EquipmentAndQuickSlots`

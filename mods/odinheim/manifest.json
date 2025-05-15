@@ -1,13 +1,23 @@
 {
   "name": "Odinheim",
-  "version_number": "2.2.2",
+  "version_number": "3.0.0",
   "website_url": "",
   "description": "A collection of mods to improve gameplay.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
     "ValheimModding-Jotunn-2.24.3",
-    "Nimbi-Odinheim_Core-1.1.1",
-    "Nimbi-Odinheim_Extras-1.2.1",
-    "Nimbi-Odinheim_QOL-1.1.0"
+    "Azumatt-Official_BepInEx_ConfigurationManager-18.4.0",
+    "CW_Jesse-BetterNetworking_Valheim-2.3.2",
+    "RandyKnapp-EpicLoot-0.11.3",
+    "Smoothbrain-ShutUp-1.0.2",
+    "OdinPlus-PotionPlus-4.2.0",
+    "OdinPlus-OdinHorse-1.4.15",
+    "OdinPlus-OdinsUndercroft-1.2.6",
+    "OdinPlus-PlantIt-0.1.5",
+    "OhhLoz-HoneyPlus-6.1.0",
+    "Azumatt-BetterWards-1.9.5",
+    "OdinPlus-CraftyCartsRemake-3.0.7",
+    "RandyKnapp-EquipmentAndQuickSlots-2.1.14",
+    "nearbear-WishboneSlot-1.0.3"
   ]
 }
