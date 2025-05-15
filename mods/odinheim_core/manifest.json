@@ -1,0 +1,12 @@
+{
+  "name": "Odinheim_Core",
+  "version_number": "1.1.1",
+  "website_url": "",
+  "description": "Odinheim Core Modpack",
+  "dependencies": [
+    "Azumatt-Official_BepInEx_ConfigurationManager-18.4.0",
+    "CW_Jesse-BetterNetworking_Valheim-2.3.2",
+    "RandyKnapp-EpicLoot-0.11.3",
+    "Smoothbrain-ShutUp-1.0.2"
+  ]
+}

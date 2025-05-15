@@ -1,0 +1,20 @@
+{
+  "name": "Odinheim_Serverpack",
+  "version_number": "1.4.1",
+  "website_url": "",
+  "description": "Odinheim serverpack for installing the server-side mods onto your server.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "CW_Jesse-BetterNetworking_Valheim-2.3.2",
+    "OdinPlus-PotionPlus-4.2.0",
+    "OdinPlus-OdinHorse-1.4.15",
+    "OdinPlus-OdinsUndercroft-1.2.6",
+    "ValheimModding-Jotunn-2.24.3",
+    "OdinPlus-PlantIt-0.1.5",
+    "OhhLoz-HoneyPlus-6.1.0",
+    "RandyKnapp-EpicLoot-0.11.3",
+    "Azumatt-BetterWards-1.9.5",
+    "Smoothbrain-ShutUp-1.0.2",
+    "OdinPlus-CraftyCartsRemake-3.1.9"
+  ]
+}

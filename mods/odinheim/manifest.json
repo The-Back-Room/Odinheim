@@ -1,0 +1,13 @@
+{
+  "name": "Odinheim",
+  "version_number": "2.2.2",
+  "website_url": "",
+  "description": "A collection of mods to improve gameplay.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.24.3",
+    "Nimbi-Odinheim_Core-1.1.1",
+    "Nimbi-Odinheim_Extras-1.2.1",
+    "Nimbi-Odinheim_QOL-1.1.0"
+  ]
+}
