@@ -1,7 +1,7 @@
 {
   "name": "Odinheim",
-  "version_number": "3.0.1",
-  "website_url": "",
+  "version_number": "3.0.2",
+  "website_url": "https://the-back-room.info",
   "description": "A collection of mods to improve gameplay.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",

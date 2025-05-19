@@ -26,20 +26,20 @@
 	- Removed `CustomSlotItemLib`
 	- Removed `Odinheim_QoL`
 
-## 2.2.0 - 3.0.1
+## 2.2.0 - 3.0.2
 
 	- Tweaks and Improvements
 	- Consolidated the modpacks into a single modpack
-    	- Removed `Odinheim Core`
-    	- Removed `Odinheim Extras`
-    	- Removed `Odinheim QoL`
-    	- Added `Official_BepInEx_ConfigurationManager`
-    	- Added `BetterNetworking_Valheim`
-    	- Added `EpicLoot`
-    	- Added `BetterWards`
-    	- Added `OdinsUndercrot`
-    	- Added `PotionsPlus`
-    	- Added `OdinHorse`
-    	- Added `HoneyPlus`
-    	- Added `WishboneSlot`
-    	- Added `EquipmentAndQuickSlots`
+	- Removed `Odinheim Core`
+	- Removed `Odinheim Extras`
+    - Removed `Odinheim QoL`
+    - Added `Official_BepInEx_ConfigurationManager`
+    - Added `BetterNetworking_Valheim`
+    - Added `EpicLoot`
+    - Added `BetterWards`
+    - Added `OdinsUndercrot`
+    - Added `PotionsPlus`
+    - Added `OdinHorse`
+    - Added `HoneyPlus`
+    - Added `WishboneSlot`
+    - Added `EquipmentAndQuickSlots`
